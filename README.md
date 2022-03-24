@@ -1,4 +1,5 @@
-# Linear-Regression
+# Regression Analysis
 Machine learning using regression analysis
 
-# Work in progress
+# Linear Regression Model
+Work in progress
